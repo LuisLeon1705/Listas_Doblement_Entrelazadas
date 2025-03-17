@@ -6,7 +6,7 @@
 
 ## Autores
 **-Eduardo Tovar 28138831**
-**-**
+**-Luis Leon **
 ---
 
 ### Descripción del Proyecto
