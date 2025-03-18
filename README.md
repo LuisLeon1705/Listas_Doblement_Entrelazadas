@@ -5,7 +5,7 @@
 **Escuela de Ingeniería en Computación**
 
 ## Autores
-**Eduardo Tovar 28138831 - Luis Leon**
+**Eduardo Tovar 28138831 - Luis Leon 31139586**
 ---
 
 ### Descripción del Proyecto
